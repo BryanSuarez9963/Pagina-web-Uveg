@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background: #dbeeff;
+    color: #222222;
+    font-family: Arial, sans-serif;
+}
+
+#contenedor-principal {
+    width: 80%;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border: 2px solid #1d70a2;
+}
+
+.encabezado {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #1d70a2;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+h2 {
+    color: #1d70a2;
+}
+
+.etiqueta {
+    padding: 5px;
+    background: #fff3a6;
+    color: #222222;
+    font-weight: bold;
+}
+
+.texto-destacado {
+    color: #87ceeb;
+    font-weight: bold;
+}
+
+.seccion {
+    margin: 20px 0;
+    padding: 15px;
+    background: #f2f2f2;
+    border: 1px solid #aaaaaa;
+}
+
+.lista-razones li {
+    margin-bottom: 8px;
+}
+
+.seccion-imagen {
+    text-align: center;
+}
+
+.contenido-imagen {
+    width: 100%;
+}
+
+.imagen-trabajo {
+    display: block;
+    width: 420px;
+    height: 280px;
+    max-width: 100%;
+    margin: 15px auto;
+    border: 1px solid #555555;
+}
+
+.tabla-contenedor {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid #333333;
+    text-align: left;
+}
+
+th {
+    background: #1d70a2;
+    color: white;
+}
+
+.pie-pagina {
+    margin-top: 20px;
+    padding: 10px;
+    background: #1d70a2;
+    color: white;
+    text-align: center;
+}
+
+.pie-pagina p {
+    margin: 0;
+}

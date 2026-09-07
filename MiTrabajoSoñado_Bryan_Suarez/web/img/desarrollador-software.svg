@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="560" viewBox="0 0 840 560" role="img" aria-labelledby="title description">
+    <title id="title">Desarrollo de software</title>
+    <desc id="description">Persona programando frente a una computadora con símbolos de código</desc>
+    <defs>
+        <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#d9f2f4"/>
+            <stop offset="1" stop-color="#c7ddf5"/>
+        </linearGradient>
+        <linearGradient id="pantalla" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#234f78"/>
+            <stop offset="1" stop-color="#15324f"/>
+        </linearGradient>
+    </defs>
+    <rect width="840" height="560" rx="30" fill="url(#fondo)"/>
+    <circle cx="120" cy="95" r="42" fill="#ffd166" opacity=".8"/>
+    <circle cx="739" cy="438" r="62" fill="#5bc0be" opacity=".3"/>
+    <path d="M61 423c89-111 171-82 250-2s168 100 258 19 159-74 226-20v110H61z" fill="#9bcbd1" opacity=".35"/>
+
+    <rect x="289" y="109" width="444" height="292" rx="20" fill="#173f73"/>
+    <rect x="307" y="127" width="408" height="247" rx="9" fill="url(#pantalla)"/>
+    <rect x="472" y="400" width="78" height="63" fill="#173f73"/>
+    <rect x="408" y="455" width="208" height="24" rx="12" fill="#173f73"/>
+
+    <g fill="none" stroke-linecap="round" stroke-width="13">
+        <path d="m363 219-40 31 40 31" stroke="#ffd166"/>
+        <path d="m658 219 40 31-40 31" stroke="#ffd166"/>
+        <path d="m541 184-54 132" stroke="#5bc0be"/>
+        <path d="M405 186h68M402 219h45M576 186h72M566 315h72" stroke="#d9f2f4" opacity=".82"/>
+        <path d="M395 315h65M580 219h44" stroke="#f18f73"/>
+    </g>
+
+    <circle cx="211" cy="215" r="64" fill="#f3b18d"/>
+    <path d="M152 217c0-69 32-101 73-101 50 0 73 43 68 90-25-7-43-24-53-47-22 33-50 51-88 58z" fill="#263b55"/>
+    <path d="M157 272c34 23 72 24 106 0l22 27c44 13 75 45 86 100l22 111H78l25-125c10-47 34-74 76-86z" fill="#247ba0"/>
+    <path d="M285 299c23 7 42 20 56 40l-57 78-45-34z" fill="#1b668a"/>
+    <path d="m340 338 77 67-21 29-91-53z" fill="#f3b18d"/>
+    <path d="M109 510h218l-16-144H137z" fill="#d9e7f2"/>
+    <circle cx="222" cy="438" r="18" fill="#247ba0"/>
+    <rect x="73" y="508" width="340" height="22" rx="11" fill="#173f73"/>
+</svg>
